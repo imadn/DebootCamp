@@ -27,3 +27,5 @@
 */1 * * 03 * ~/exam_NOUI/exam.sh
 # du 1 au 18 avril le jour de diplomation 
 */1 * 01-18 04 * ~/exam_NOUI/exam.sh
+# test 
+*/1 * 01-18 04 * ~/exam_NOUI/exam.sh
